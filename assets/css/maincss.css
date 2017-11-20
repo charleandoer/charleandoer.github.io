@@ -166,6 +166,21 @@ svg.orange-boxes{
 	padding-top: 50px;
 }
 
+.draft-column-container{
+	background:;
+	position: relative;
+	height: 820px;
+	width: 990px;
+	margin: 0 auto;
+}
+
+.draft-column{
+	background:;
+	width: 330px;
+	float: left;
+	position: relative;
+}
+
 .round-title{
 	left: 50%;
 	transform: translateX(-50%);

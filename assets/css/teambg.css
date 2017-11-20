@@ -3,9 +3,37 @@
 }
 
 .lakers{
-	background: linear-gradient(purple, #222222);
+	background: linear-gradient(#9c07c6, #222222);
 }
 
 .celtics{
-	background: linear-gradient(green, #222222);
+	background: linear-gradient(#07c647, #222222);
+}
+
+.suns{
+	background: linear-gradient(orange, #222222);
+}
+
+.wolves{
+	background: linear-gradient(#1830ba, #222222);
+}
+
+.pels{
+	background: linear-gradient(#00144c, #222222);
+}
+
+.nuggets{
+	background: linear-gradient(#fff056, #222222);
+}
+
+.kings{
+	background: linear-gradient(#9a00ed, #222222);
+}
+
+.raptors{
+	background: linear-gradient(red, #222222);
+}
+
+.bucks{
+	background: linear-gradient(#468400, #222222);
 }

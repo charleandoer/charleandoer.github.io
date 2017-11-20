@@ -36,6 +36,11 @@ h1 {
 	z-index: 100;
 }
 
+.menu-button{
+	position:absolute;
+	left:10px;
+}
+
 #logo{ 
 	margin: 0 auto;
 	position: relative;
@@ -81,12 +86,70 @@ h1 {
 
 
 #title-container{
-	background-color: blue;
 	margin: auto;
 	width:600px;
 	height: 400px;
-	transform: translateY(-20%);
+	transform: translateY(-10%);
+}
 
+#title-container:hover{
+	cursor: default;
+}
+
+#visualizing{
+	font-family: 'Kanit', sans-serif;
+	font-weight: 700;
+	font-size: 42pt;
+	color: #EEEEEE;
+	position: absolute;
+	top: 28px;
+	left:80px;
+}
+
+#the{
+	position: absolute;
+	font-family: 'Kanit', sans-serif;
+	font-weight: 800;
+	font-size: 20pt;
+	color: #EEEEEE;
+	top: 65px;
+	left:440px;
+}
+
+#year{
+	position: absolute;
+	font-family: 'Kanit', sans-serif;
+	font-weight: 800;
+	font-style: italic;
+	font-size: 92pt;
+	color: #EEEEEE;
+	top: 82px;
+	left:72px;
+}
+
+#dclass{
+	position: absolute;
+	font-family: 'Kanit', sans-serif;
+	font-weight: 800;
+	font-style: italic;
+	font-size: 44pt;
+	color: #EEEEEE;
+	top: 208px;
+	left:42px;
+}
+
+svg.orange-boxes{
+	position: absolute;
+	top: 40px;
+	left:15px;
+	z-index: -1;
+}
+
+#downarrow{
+	position:absolute;
+	left: 50%;
+	transform: translateX(-50%);
+	top:550px;
 }
 
 /*Rando Additive Tags*/

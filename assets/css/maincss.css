@@ -1,0 +1,96 @@
+body {
+	font-family: 'Roboto', sans-serif;
+	font-weight: 500;
+	top: 0px;
+	margin: 0 !important;
+	padding: 0 !important;
+	background: #313131;
+	height: 10000px;
+}
+
+
+/*HEADER HEROICS*/
+
+h1 {
+	font-family: 'Kanit', sans-serif;
+	font-weight: 800;
+	color: #EEEEEE;
+	text-align: center;
+	margin: 0;
+}
+
+
+#main-page-containter{
+	margin: 0 auto;
+	padding: 0;
+}
+
+#header{
+	width: 100%;
+	margin: 0 auto;
+	background-color: #202020;
+	position: fixed;
+	display: flex;
+	flex-direction: row;
+	align-items: center;
+	z-index: 100;
+}
+
+#logo{ 
+	margin: 0 auto;
+	position: relative;
+}
+
+#logo:hover{
+	cursor: pointer;
+}
+
+.logo{
+	height:50px;
+	position: relative;
+}
+
+
+/*FIRST PAGE*/
+#page-1{
+	width:100%;
+	height:100vh;
+	opacity: 1;
+	position: relative;
+	top: 50px;
+	z-index: -1;
+	background: black;
+	display:flex;
+}
+
+#page-1::after {
+  content: "";
+  	background-image: url(../img/bg-image.jpg);
+	background-size: 150% auto;
+	background-repeat: no-repeat;
+	background-attachment: fixed;
+	background-position: 40% 30%; 
+  opacity: 0.4;
+  top: 0;
+  left: 0;
+  bottom: 0;
+  right: 0;
+  position: absolute;
+  z-index: -1;   
+}
+
+
+#title-container{
+	background-color: blue;
+	margin: auto;
+	width:600px;
+	height: 400px;
+	transform: translateY(-20%);
+
+}
+
+/*Rando Additive Tags*/
+
+.floatleft{
+	float: left;
+}

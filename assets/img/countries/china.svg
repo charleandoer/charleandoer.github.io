@@ -1,0 +1,32 @@
+
+<svg width="73px" height="78px" viewBox="0 0 73 78" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 47.1 (45422) - http://www.bohemiancoding.com/sketch -->
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <path d="M60,0 L72.2516266,6.52256027e-16 L60,47 L60,0 Z M0,47 L19.9385106,47 L0,78 L0,47 Z M0,0 L60,0 L60,47 L0,47 L0,0 Z" id="path-1"></path>
+        <filter x="-1.4%" y="-1.3%" width="102.8%" height="102.6%" filterUnits="objectBoundingBox" id="filter-2">
+            <feOffset dx="-2" dy="-2" in="SourceAlpha" result="shadowOffsetInner1"></feOffset>
+            <feComposite in="shadowOffsetInner1" in2="SourceAlpha" operator="arithmetic" k2="-1" k3="1" result="shadowInnerInner1"></feComposite>
+            <feColorMatrix values="0 0 0 0 1   0 0 0 0 0.420855978   0 0 0 0 0  0 0 0 1 0" type="matrix" in="shadowInnerInner1"></feColorMatrix>
+        </filter>
+    </defs>
+    <g id="Website" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Page-4" transform="translate(-1037.000000, -344.000000)">
+            <g id="Australia-Copy-15" transform="translate(1037.000000, 344.000000)">
+                <g id="Combined-Shape">
+                    <use fill="#FFFFFF" fill-rule="evenodd" xlink:href="#path-1"></use>
+                    <use fill="black" fill-opacity="1" filter="url(#filter-2)" xlink:href="#path-1"></use>
+                </g>
+                <text id="CHINA" font-family="Kanit-Bold, Kanit" font-size="14" font-weight="bold" fill="#202020">
+                    <tspan x="6" y="17">CHINA</tspan>
+                </text>
+                <text id="Zhou-Qi" font-family="Roboto-Light, Roboto" font-size="9" font-weight="300" fill="#202020">
+                    <tspan x="6" y="29">Zhou Qi</tspan>
+                </text>
+                <text id="Wang-Zhelin" font-family="Roboto-Light, Roboto" font-size="9" font-weight="300" fill="#202020">
+                    <tspan x="6" y="39">Wang Zhelin</tspan>
+                </text>
+            </g>
+        </g>
+    </g>
+</svg>

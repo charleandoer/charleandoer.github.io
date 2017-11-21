@@ -1,0 +1,29 @@
+
+<svg width="84px" height="134px" viewBox="0 0 84 134" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 47.1 (45422) - http://www.bohemiancoding.com/sketch -->
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <path d="M74,0 L84,5.3238321e-16 L74,38.3622532 L74,0 Z M0,37 L16,37 L0,134 L0,37 Z M0,0 L74,0 L74,37 L0,37 L0,0 Z" id="path-1"></path>
+        <filter x="-1.2%" y="-0.7%" width="102.4%" height="101.5%" filterUnits="objectBoundingBox" id="filter-2">
+            <feOffset dx="-2" dy="-2" in="SourceAlpha" result="shadowOffsetInner1"></feOffset>
+            <feComposite in="shadowOffsetInner1" in2="SourceAlpha" operator="arithmetic" k2="-1" k3="1" result="shadowInnerInner1"></feComposite>
+            <feColorMatrix values="0 0 0 0 1   0 0 0 0 0.420855978   0 0 0 0 0  0 0 0 1 0" type="matrix" in="shadowInnerInner1"></feColorMatrix>
+        </filter>
+    </defs>
+    <g id="Website" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Page-4" transform="translate(-772.000000, -252.000000)">
+            <g id="Australia-Copy-19" transform="translate(772.000000, 252.000000)">
+                <g id="Combined-Shape">
+                    <use fill="#FFFFFF" fill-rule="evenodd" xlink:href="#path-1"></use>
+                    <use fill="black" fill-opacity="1" filter="url(#filter-2)" xlink:href="#path-1"></use>
+                </g>
+                <text id="UKRAINE" font-family="Kanit-Bold, Kanit" font-size="14" font-weight="bold" fill="#202020">
+                    <tspan x="6" y="15">UKRAINE</tspan>
+                </text>
+                <text id="Joel-Bolomboy" font-family="Roboto-Light, Roboto" font-size="9" font-weight="300" fill="#202020">
+                    <tspan x="6" y="27">Joel Bolomboy</tspan>
+                </text>
+            </g>
+        </g>
+    </g>
+</svg>

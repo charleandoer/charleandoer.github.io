@@ -279,12 +279,31 @@ h5.pick{
 }
 
 /*World Map Page*/
+.map-container{
+	background:;
+	width: 100%;
+	margin: 0 auto;
+	padding: 200px 0 50px 0;
+	display: flex;
+	align-items: center;
+	flex-direction: row;
+}
 
+.sec-map-container{
+	position: relative;
+	margin: 0 auto;
+}
 
-
+.wm{
+	position: relative;
+}
 
 /*Rando Additive Tags*/
 
 .floatleft{
 	float: left;
+}
+
+.abs{
+	position: absolute;
 }

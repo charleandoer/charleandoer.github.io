@@ -1,0 +1,13 @@
+.australia{
+	transform: translateX(1000px) translateY(-210px);
+}
+
+.austria{
+	transform: translateX(555px) translateY(-580px);
+	z-index: 5;
+}
+
+.bahamas{
+	transform: translateX(253px) translateY(-435px);
+	z-index: 5;
+}

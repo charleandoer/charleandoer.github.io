@@ -11,3 +11,94 @@
 	transform: translateX(253px) translateY(-435px);
 	z-index: 5;
 }
+
+.camaroon{
+	transform: translateX(550px) translateY(-330px);
+	z-index: 5;
+}
+
+.canada{
+	transform: translateX(120px) translateY(-550px);
+	z-index: 5;
+}
+
+.china{
+	transform: translateX(920px) translateY(-510px);
+	z-index: 5;
+}
+
+.croatia{
+	transform: translateX(576px) translateY(-537px);
+	z-index: 5;
+}
+
+.egypt{
+	transform: translateX(620px) translateY(-395px);
+	z-index: 5;
+}
+
+.france{
+	transform: translateX(510px) translateY(-660px);
+	z-index: 5;
+}
+
+.germany{
+	transform: translateX(620px) translateY(-660px);
+	z-index: 1;
+}
+
+.ghana{
+	transform: translateX(490px) translateY(-340px);
+	z-index: 3;
+}
+
+.greece{
+	transform: translateX(590px) translateY(-475px);
+	z-index: 6;
+}
+
+.haiti{
+	transform: translateX(235px) translateY(-390px);
+	z-index: 6;
+}
+
+.lithuania{
+	transform: translateX(605px) translateY(-620px);
+	z-index: 3;
+}
+
+.mali{
+	transform: translateX(510px) translateY(-420px);
+	z-index: 2;
+}
+
+.nigeria{
+	transform: translateX(530px) translateY(-380px);
+	z-index: 2;
+}
+
+.serbia{
+	transform: translateX(545px) translateY(-710px);
+	z-index: 1;
+}
+
+.spain{
+	transform: translateX(480px) translateY(-500px);
+	z-index: 6;
+}
+
+.turkey{
+	transform: translateX(663px) translateY(-520px);
+	z-index: 3;
+}
+
+.ukraine{
+	transform: translateX(650px) translateY(-580px);
+	z-index: 1;
+}
+
+.united-states{
+	transform: translateX(240px) translateY(-600px);
+	z-index: 1;
+}
+

@@ -10,6 +10,9 @@ body {
 
 p{
 	margin: 0 ;
+	font-family: roboto;
+	font-weight: 300;
+	color: white;
 }
 
 
@@ -24,9 +27,10 @@ h1 {
 }
 
 
-#main-page-containter{
+#main-page-container{
 	margin: 0 auto;
 	padding: 0;
+	position: relative;
 }
 
 #header{
@@ -297,6 +301,69 @@ h5.pick{
 .wm{
 	position: relative;
 }
+
+/*Bar Graphs*/
+
+.stats-module{
+	margin: 80px auto 0 auto;
+	height: 720px;
+	width: 880px;
+	background:;
+}
+
+.large-prof{
+	border-radius: 100%;
+	width: 180px;
+	transform: translateX(13px) translateY(64px);
+	z-index: 1;
+	position: absolute;
+}
+
+.large-circle{
+	transform: rotate(90deg);
+	z-index: 5;
+	position: absolute;
+}
+
+.large-bg{
+	z-index:0;
+	position: absolute;
+	height:198px;
+	width: 198px;
+	border-radius: 100%;
+	transform: translateX(6px);
+}
+
+.prof-container{
+	left:120px;
+	position: relative;
+	float: left;
+}
+
+.ppg{
+	text-align: center;
+	color: white;
+	font-family: roboto;
+	font-weight: 500;
+	margin-bottom: 20px;
+	font-size: 20pt;
+}
+
+.info-container{
+	position: relative;
+	float: left;
+	left: 360px;
+	top: 20px;
+}
+
+.name{
+	font-size: 48pt;
+	font-family: kanit;
+	font size: 800;
+}
+
+/*Sidebar*/
+
 
 /*Rando Additive Tags*/
 
